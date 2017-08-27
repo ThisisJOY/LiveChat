@@ -34,20 +34,20 @@ Step 4: npm install && react-native link
 
 #### If the keyboard doesn't show up in iOS simulator, press ⌘ + K
 
-#### If you want to run multiple iOS simulators
+#### If you want to run multiple iOS simulators to chat
 Using MacOs Terminal, launch first simulator:
 
-* $ cd /Applications/Xcode.app/Contents/Developer/Applications
-* $ open -n Simulator.app
-* $ cd `<your react native project>`
-* $ react-native run-ios
+Step 1: $ cd /Applications/Xcode.app/Contents/Developer/Applications
+Step 2: $ open -n Simulator.app
+Step 3: $ cd `<your react native project>`
+Step 4: $ react-native run-ios
 
 Now, launch 2nd simulator:
 
-* $ cd /Applications/Xcode.app/Contents/Developer/Applications
-* $ open -n Simulator.app
-* Click "Ok" when you get "Unable to boot device in current state"
-* Change simulator to be different than first simulator (e.g. Hardware -> Device -> iPhone 6s)
-* $ cd `<your react-native project>`
-* $ react-native run-ios --simulator "iPhone 6s" (or whatever simulator you chose in step 8).
+Step 5: $ cd /Applications/Xcode.app/Contents/Developer/Applications
+Step 6: $ open -n Simulator.app
+Step 7: Click "Ok" when you get "Unable to boot device in current state"
+Step 8: Change simulator to be different than first simulator (e.g. Hardware -> Device -> iPhone 6s)
+Step 9: $ cd `<your react-native project>`
+Step 10: $ react-native run-ios --simulator "iPhone 6s" (or whatever simulator you chose in step 8).
 
