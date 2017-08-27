@@ -19,9 +19,7 @@ Step 1: git clone this repo:
 
 Step 2: cd to the cloned repo:
 
-Step 3: Install the Application with npm install
-
-Step 4: npm install && react-native link
+Step 3: npm install && react-native link
 
 # How to Run ▶️
 
