@@ -7,7 +7,7 @@
 - [x] Rich text/Emoji’s
 
 # Demo
-![demo](./demo/video.mov)
+![demo](https://youtu.be/ugA1DqM4oIE)
 # Prerequisite
 
 $ npm install -g react-native-cli
