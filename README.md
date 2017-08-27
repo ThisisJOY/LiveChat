@@ -7,6 +7,7 @@
 - [x] Rich text/Emoji’s
 
 # Demo
+[Demo on youtube](https://www.youtube.com/watch?v=ugA1DqM4oIE&feature=youtu.be)
 [![Demo on youtube](./screenshot/screenshot.png)](https://www.youtube.com/watch?v=ugA1DqM4oIE&feature=youtu.be)
 # Prerequisite
 
